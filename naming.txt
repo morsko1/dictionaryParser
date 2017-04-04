@@ -1,0 +1,10 @@
+// a Ц adjective - прилагательное
+// adv Ц adverb Ц наречие
+// cj Ц conjunction Ц союз
+// int Ц interjection Ц междометие
+// n- noun Ц существительное
+// num- numeral Ц числительное
+// part Ц particle Ц частица
+// prep Ц preposition Ц предлог
+// pron Ц pronoun Ц местоимение
+// v- verb Ц глагол
